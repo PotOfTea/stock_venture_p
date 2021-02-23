@@ -82,7 +82,7 @@ Test location
 website/tests
 ```
 
-## Infrastructure tooling
+## Infrastructure tooling
 
 Local deployment configuration is located in:
 

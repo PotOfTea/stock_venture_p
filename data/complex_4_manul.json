@@ -1,0 +1,89 @@
+{
+  "allocation_amount": 100,
+  "investor_amounts": [
+    {
+      "name": "Investor A",
+      "requested_amount": 200,
+      "average_amount": 70
+    },
+    {
+      "name": "Investor Baa",
+      "requested_amount": 300,
+      "average_amount": 80
+    },
+    {
+      "name": "Investor Czzz",
+      "requested_amount": 20,
+      "average_amount": 100
+    }
+    ,
+    {
+      "name": "Investor D5",
+      "requested_amount": 100,
+      "average_amount": 100
+    },
+    {
+      "name": "Investor Ag",
+      "requested_amount": 200,
+      "average_amount": 70
+    },
+    {
+      "name": "Investor B1",
+      "requested_amount": 300,
+      "average_amount": 80
+    },
+    {
+      "name": "Investor Cg",
+      "requested_amount": 20,
+      "average_amount": 100
+    }
+    ,
+    {
+      "name": "Investor D",
+      "requested_amount": 100,
+      "average_amount": 100
+    },
+    {
+      "name": "Investor Ar",
+      "requested_amount": 200,
+      "average_amount": 70
+    },
+    {
+      "name": "Investor Br",
+      "requested_amount": 300,
+      "average_amount": 80
+    },
+    {
+      "name": "Investor Cz",
+      "requested_amount": 20,
+      "average_amount": 100
+    }
+    ,
+    {
+      "name": "Investor Dz",
+      "requested_amount": 100,
+      "average_amount": 100
+    },
+    {
+      "name": "Investor Af",
+      "requested_amount": 200,
+      "average_amount": 70
+    },
+    {
+      "name": "Investor Bf",
+      "requested_amount": 300,
+      "average_amount": 80
+    },
+    {
+      "name": "Investor Ca",
+      "requested_amount": 20,
+      "average_amount": 100
+    }
+    ,
+    {
+      "name": "Investor De",
+      "requested_amount": 100,
+      "average_amount": 100
+    }
+  ]
+}
